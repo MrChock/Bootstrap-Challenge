@@ -1,0 +1,14 @@
+div.blackbar{
+	background-color:black;
+	text-align:center;
+	color:white;
+}
+
+div.colorblock{
+	text-align:center;
+	font-size:60px;
+	height:125px;
+	margin-top:20px;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif
+	;
+}
